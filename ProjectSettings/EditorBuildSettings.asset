@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_scenes/MainMap.unity
+    guid: 1bdbb46e802ca1a47b0a30ca6aa7a242
+  - enabled: 1
+    path: Assets/_scenes/ChivaTravel.unity
+    guid: 104bbe8c6df5b794f8f8d709a9f94018
+  - enabled: 1
+    path: Assets/_scenes/hueca_geranios.unity
+    guid: 34b3d24a95448ff41a5fa415cf2e851b
+  - enabled: 1
+    path: Assets/_scenes/volcanpichincha.unity
+    guid: 5fb505e487e9e8f43b888bfed04af70d
+  - enabled: 1
+    path: Assets/_scenes/panecillo.unity
+    guid: 0b85f70dba7281243bffcf940d5b1693
+  - enabled: 1
+    path: Assets/_scenes/jardinbotanico.unity
+    guid: 07cccd7bf107bee4abedd29329baa579
+  - enabled: 1
+    path: Assets/_scenes/huecamistica.unity
+    guid: 3553d5f69bd64674f9feea1d0649aa3d
+  - enabled: 1
+    path: Assets/_scenes/hueca_papa_ronda.unity
+    guid: cfaba1014d83e64488d3daa1b6e70bbe
+  - enabled: 1
+    path: Assets/_scenes/hueca_miski.unity
+    guid: fed58f23b6d32ee46b9f0c547782797a
+  - enabled: 1
+    path: Assets/_scenes/Victory.unity
+    guid: 753469f5e7a90eb4a8a476adcd6f0be6
+  m_configObjects: {}
